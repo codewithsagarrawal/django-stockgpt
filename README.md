@@ -1,5 +1,3 @@
-Certainly! Here’s an enhanced version of your project description:
-
 ---
 
 **Project Title: Advanced Livestock Market Screening with AI-Enhanced Portfolio Management**
