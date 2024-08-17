@@ -52,8 +52,11 @@ Instructions on How to Start The App.
 
 Clone the repo
 git clone https://github.com/sr8586837880/django-stockgpt.git
+
 install requirements.txt
+
 pip freeze > requirements.txt.
+
 Run the server
 python manage.py runserver
 
